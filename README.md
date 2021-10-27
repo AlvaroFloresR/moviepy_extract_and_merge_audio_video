@@ -14,6 +14,8 @@ In some recordings (lectures) there are 2 files, the Webcam Video has the lectur
 ## Assumptions
 1) Both video files are the same length (time)
 2) Packages required are installed
+3) Video A with Audio A file is called "video.mp4"
+4) Video B with Audio B file is called "audio.mp4"
 
 ## Is FFMPEG Necessary?
 Not really, but MOVIEPY has never rendered audio in any of my projects. If you manage to make it work, please feel free to contribute to this repo
